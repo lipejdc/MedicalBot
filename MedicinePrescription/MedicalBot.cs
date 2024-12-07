@@ -16,7 +16,7 @@ internal class MedicalBot
         switch (symptom)
         {
             case "Headache":
-                patient.SetPrescription($"Ibuprofen"); break;
+                patient.SetPrescription("Ibuprofen"); break;
             case "Skin rashes":
                 patient.SetPrescription("Diphenhydramine"); break;
             case "Dizziness":
@@ -34,32 +34,21 @@ internal class MedicalBot
 
         string medicineName = patient.GetPrescription();
         string dosage = GetDosage(medicineName);
-        Console.WriteLine($"Your prescription based on your age, symptoms, and medical history:");
+        Console.WriteLine($"\nYour prescription based on your age, symptoms, and medical history:");
         Console.WriteLine($"{patient.GetPrescription()} {dosage}.");
 
         string GetDosage(string medicineName)
         {
-            string dosage;
+            int age = patient.GetAge();
 
-            switch (medicineName)
+            return medicineName.ToLower() switch
             {
-                case "Ibuprofen":
-                    dosage = patient.GetAge() < 18 ? "400 mg" : "800 mg"; break;
-
-                case "Diphenhydramine":
-                    dosage = patient.GetAge() < 18 ? "50 mg" : "300 mg"; break;
-
-                case "Dimenhydrinate":
-                    dosage = patient.GetAge() < 18 ? "50 mg" : "400 mg"; break;
-
-                case "Metformin":
-                    dosage = "500 mg"; break;
-
-                default:
-                    dosage = "Unknown dosage"; break;
-            }
-
-            return dosage;
+                "ibuprofen" => age < 18 ? "400 mg" : "800 mg",
+                "diphenhydramine" => age < 18 ? "50 mg" : "300 mg",
+                "dimenhydrinate" => age < 18 ? "50 mg" : "400 mg",
+                "metformin" => "500 mg",
+                _ => "Unknown dosage"
+            };
         }
     }
 }

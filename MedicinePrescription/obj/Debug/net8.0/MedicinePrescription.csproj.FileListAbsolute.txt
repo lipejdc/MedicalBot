@@ -12,3 +12,4 @@ C:\Users\User\source\repos\MedicinePrescription\MedicinePrescription\obj\Debug\n
 C:\Users\User\source\repos\MedicinePrescription\MedicinePrescription\obj\Debug\net8.0\MedicinePrescription.pdb
 C:\Users\User\source\repos\MedicinePrescription\MedicinePrescription\obj\Debug\net8.0\MedicinePrescription.genruntimeconfig.cache
 C:\Users\User\source\repos\MedicinePrescription\MedicinePrescription\obj\Debug\net8.0\ref\MedicinePrescription.dll
+C:\Users\User\source\repos\MedicinePrescription\MedicinePrescription\obj\Debug\net8.0\MedicinePrescription.sourcelink.json
