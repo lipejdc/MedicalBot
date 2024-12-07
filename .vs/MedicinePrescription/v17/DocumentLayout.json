@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{4115E808-2843-44E1-B597-D799F719F8F1}|MedicinePrescription\\MedicinePrescription.csproj|solutionrelative:medicineprescription\\medicalbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4115E808-2843-44E1-B597-D799F719F8F1}|MedicinePrescription\\MedicinePrescription.csproj|c:\\users\\user\\source\\repos\\medicineprescription\\medicineprescription\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4115E808-2843-44E1-B597-D799F719F8F1}|MedicinePrescription\\MedicinePrescription.csproj|solutionrelative:medicineprescription\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4115E808-2843-44E1-B597-D799F719F8F1}|MedicinePrescription\\MedicinePrescription.csproj|c:\\users\\user\\source\\repos\\medicineprescription\\medicineprescription\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4115E808-2843-44E1-B597-D799F719F8F1}|MedicinePrescription\\MedicinePrescription.csproj|solutionrelative:medicineprescription\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4115E808-2843-44E1-B597-D799F719F8F1}|MedicinePrescription\\MedicinePrescription.csproj|c:\\users\\user\\source\\repos\\medicineprescription\\medicineprescription\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4115E808-2843-44E1-B597-D799F719F8F1}|MedicinePrescription\\MedicinePrescription.csproj|solutionrelative:medicineprescription\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 108,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -36,33 +40,33 @@
               "RelativeDocumentMoniker": "MedicinePrescription\\MedicalBot.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\MedicinePrescription\\MedicinePrescription\\MedicalBot.cs",
               "RelativeToolTip": "MedicinePrescription\\MedicalBot.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T13:09:27.059Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Patient.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MedicinePrescription\\MedicinePrescription\\Patient.cs",
               "RelativeDocumentMoniker": "MedicinePrescription\\Patient.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\MedicinePrescription\\MedicinePrescription\\Patient.cs",
               "RelativeToolTip": "MedicinePrescription\\Patient.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAIwFsAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAlwAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T13:09:21.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MedicinePrescription\\MedicinePrescription\\Program.cs",
               "RelativeDocumentMoniker": "MedicinePrescription\\Program.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\MedicinePrescription\\MedicinePrescription\\Program.cs",
               "RelativeToolTip": "MedicinePrescription\\Program.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAADYAAAA3AAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T13:09:09.124Z",
               "EditorCaption": ""

@@ -4,10 +4,7 @@ internal class MedicalBot
 {
     private const string BotName = "Bob";
 
-    public static string GetBotName()
-    {
-        return BotName;
-    }
+    public static string GetBotName() => BotName;
 
     internal void PrescribeMedication(Patient patient)
     {
