@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\MedicinePrescription\MedicinePrescription\bin\Debug\net8.0\MedicinePrescription.exe
+C:\Users\User\source\repos\MedicinePrescription\MedicinePrescription\bin\Debug\net8.0\MedicinePrescription.deps.json
+C:\Users\User\source\repos\MedicinePrescription\MedicinePrescription\bin\Debug\net8.0\MedicinePrescription.runtimeconfig.json
+C:\Users\User\source\repos\MedicinePrescription\MedicinePrescription\bin\Debug\net8.0\MedicinePrescription.dll
+C:\Users\User\source\repos\MedicinePrescription\MedicinePrescription\bin\Debug\net8.0\MedicinePrescription.pdb
+C:\Users\User\source\repos\MedicinePrescription\MedicinePrescription\obj\Debug\net8.0\MedicinePrescription.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MedicinePrescription\MedicinePrescription\obj\Debug\net8.0\MedicinePrescription.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MedicinePrescription\MedicinePrescription\obj\Debug\net8.0\MedicinePrescription.AssemblyInfo.cs
+C:\Users\User\source\repos\MedicinePrescription\MedicinePrescription\obj\Debug\net8.0\MedicinePrescription.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MedicinePrescription\MedicinePrescription\obj\Debug\net8.0\MedicinePrescription.dll
+C:\Users\User\source\repos\MedicinePrescription\MedicinePrescription\obj\Debug\net8.0\refint\MedicinePrescription.dll
+C:\Users\User\source\repos\MedicinePrescription\MedicinePrescription\obj\Debug\net8.0\MedicinePrescription.pdb
+C:\Users\User\source\repos\MedicinePrescription\MedicinePrescription\obj\Debug\net8.0\MedicinePrescription.genruntimeconfig.cache
+C:\Users\User\source\repos\MedicinePrescription\MedicinePrescription\obj\Debug\net8.0\ref\MedicinePrescription.dll
