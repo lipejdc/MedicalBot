@@ -25,6 +25,7 @@ internal class MedicalBot
                 {
                     patient.SetPrescription("Dimenhydrinate");
                 }
+                
                 break;
 
         }

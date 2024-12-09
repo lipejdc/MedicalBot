@@ -20,13 +20,9 @@ internal class Patient
             return true;
         }
 
-        else
-        {
-            errorMessage = "Invalid name! The patient's name can't be null or empty! " +
-                "It should contain at least two or more characters!";
-            return false;
-        }
-
+        errorMessage = "Invalid name! The patient's name can't be null or empty! " +
+                        "It should contain at least two or more characters!";
+        return false;
     }
 
     internal int GetAge() => _age;
